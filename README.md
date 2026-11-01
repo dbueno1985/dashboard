@@ -1,5 +1,9 @@
 # Mortalidad en Colombia 2019: dashboard con Plotly y Dash
 
+Esta actividad fue realizada en equipo por los ingenieros Daniel Palacio y Deicer Bueno
+
+
+
 ## Introducción del proyecto
 
 Aplicación web interactiva que muestra las defunciones no fetales registradas en Colombia durante 2019, a partir de los datos de Estadísticas Vitales (EEVV) del DANE. Permite ver dónde se concentran las muertes, cuándo ocurren, qué causas las producen y cómo se distribuyen por sexo y por etapa de la vida.
